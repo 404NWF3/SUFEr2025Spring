@@ -1,0 +1,9 @@
+F:/@Qt/Assignment_1/0-test/untitled1/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/untitled1.dir
+F:/@Qt/Assignment_1/0-test/untitled1/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/@Qt/Assignment_1/0-test/untitled1/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/@Qt/Assignment_1/0-test/untitled1/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+F:/@Qt/Assignment_1/0-test/untitled1/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+F:/@Qt/Assignment_1/0-test/untitled1/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+F:/@Qt/Assignment_1/0-test/untitled1/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+F:/@Qt/Assignment_1/0-test/untitled1/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/untitled1_autogen_timestamp_deps.dir
+F:/@Qt/Assignment_1/0-test/untitled1/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/untitled1_autogen.dir
